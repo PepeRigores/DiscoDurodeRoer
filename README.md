@@ -2,15 +2,7 @@
 
 ![https://github.com/DiscoDurodeRoer](https://raw.githubusercontent.com/DiscoDurodeRoer/DiscoDurodeRoer/master/banner-profile.png)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEzsgYrYzOCOcwmjhu_pngw?style=social)](https://youtube.com/DiscoDurodeRoer?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/discoduroderoer_prog?style=social)](https://twitch.com/discoduroderoer_prog)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DiscoDurodeRoer?style=social)](https://twitter.com/DiscoDurodeRoer)
-![GitHub Followers](https://img.shields.io/github/followers/DiscoDurodeRoer?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/DiscoDurodeRoer?style=social)
 
-## <b>Sobre mí</b>
-
-Os dejo mi **[Curriculum Vitae online](https://fernando-urena-gomez.es/#/inicio)** para que me conozcáis un poco mejor.
 
 ## <b>Tecnologías</b>
 
